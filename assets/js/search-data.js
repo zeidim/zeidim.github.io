@@ -511,13 +511,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-6552-388X", "_blank");
         },
       },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Mahdi-Zeidi/", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
