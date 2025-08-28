@@ -24,7 +24,7 @@ email: zeidi@ualberta.ca # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+ linkedin_username: zeidi # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
  orcid_id: 0000-0001-6552-388X # your ORCID ID
@@ -36,7 +36,6 @@ research_gate_profile: https://www.researchgate.net/profile/Mahdi-Zeidi # your p
 #rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: Q59PL_cAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
-semanticscholar_id: 51209564 #your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
@@ -47,7 +46,7 @@ semanticscholar_id: 51209564 #your Semantic Scholar ID
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+ x_username: zeidimahdi # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 #custom_social: # can be any name here other than the ones already defined above
