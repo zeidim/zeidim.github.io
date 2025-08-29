@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: citations.jpg
+  image: mahdi_photo.jpg
   image_circular: True # crops the image to make it circular
   more_info: >
     <p>5-01H Mechanical Engineering</p>
