@@ -8,10 +8,7 @@ profile:
   align: right
   image: mahdi_photo.jpg
   image_circular: True # crops the image to make it circular
-  more_info: >
-    <p>5-01H Mechanical Engineering</p>
-    <p>11507 Saskatchewan Drive NW</p>
-    <p>Edmonton, AB, Canada T6G 2G8</p>
+  more_info: 
 
 
 
