@@ -36,5 +36,5 @@ I earned a double degree BSc in Mechanical Engineering and Aerospace Engineering
 
 - PhD in Mechanical Engineering, [University of Toronto](https://utoronto.ca/) (2019–2024)
 - MSc in Mechanical Engineering, [University of Alberta](https://ualberta.ca/) (2017–2019)
-- Double-degree in Mechanical Engineering and Aerospace Engineering, [Sharif University of Technology](https://en.sharif.ir/) (2010–2016)
+- Double BSc degree in Mechanical Engineering and Aerospace Engineering, [Sharif University of Technology](https://en.sharif.ir/) (2010–2016)
 
