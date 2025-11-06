@@ -32,7 +32,7 @@ I am a postdoctoral research associate, working with Prof. [Wylie Stroberg](http
 I earned a double BSc degree in Mechanical Engineering and Aerospace Engineering from [Sharif University of Technology](https://en.sharif.ir/), my MSc in Mechanical Engineering from the [University of Alberta](https://ualberta.ca/), and completed my PhD at the [University of Toronto](https://utoronto.ca/), working under the supervision of Prof. [Chul B. Park](https://mpml.mie.utoronto.ca/lab/) and Prof. [Chun Il Kim](https://apps.ualberta.ca/directory/person/cikim).
 
 
-**Education:**
+🎓**Education:**
 
 - PhD in Mechanical Engineering, [University of Toronto](https://utoronto.ca/) (2019–2024)
 - MSc in Mechanical Engineering, [University of Alberta](https://ualberta.ca/) (2017–2019)
