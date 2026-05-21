@@ -6,6 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-- "In order to be able to think, you have to risk being offensive" (Jordan B. Peterson)
-- "Faith is a torment! It is like loving someone who is out there in the darkness but never appears, no matter how loudly you call" (The Seventh Seal (1957), Ingmar Bergman)
+- “In order to be able to think, you have to risk being offensive” (Jordan B. Peterson)
+- “Faith is a torment! It is like loving someone who is out there in the darkness but never appears, no matter how loudly you call” (The Seventh Seal (1957), Ingmar Bergman)
 - “So we beat on, boats against the current, borne back ceaselessly into the past” (F. Scott Fitzgerald, The Great Gatsby)
