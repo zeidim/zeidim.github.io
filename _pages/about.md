@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral research associate, working with Prof. [Wylie Stroberg](https://stroberg-lab.github.io/), on the intersection of mechanical engineering and biophysics. My research focuses on machine learning–driven modeling of intracellular transport, with an emphasis on how endoplasmic reticulum (ER) crowding and heterogeneity shape protein trafficking. My work spans from the development of multiscale models and leveraging operator learning and auxiliary variable approaches (Mori–Zwanzig/GLE) to extract mechanistic, clinically relevant insights. 
+I am a postdoctoral research associate, working with Prof. [Wylie Stroberg](https://stroberg-lab.github.io/), on the intersection of mechanical engineering and biophysics. My research focuses on machine learning–driven reduced-order modeling of intracellular transport, with an emphasis on how endoplasmic reticulum (ER) crowding and heterogeneity shape protein trafficking. My work spans from the development of multiscale models and leveraging operator learning and auxiliary variable approaches (Mori–Zwanzig/GLE) to extract mechanistic, clinically relevant insights.
 
 I earned a double BSc degree in Mechanical Engineering and Aerospace Engineering from [Sharif University of Technology](https://en.sharif.ir/), my MSc in Mechanical Engineering from the [University of Alberta](https://ualberta.ca/), and completed my PhD at the [University of Toronto](https://utoronto.ca/), working under the supervision of Prof. [Chul B. Park](https://mpml.mie.utoronto.ca/lab/) and Prof. [Chun Il Kim](https://apps.ualberta.ca/directory/person/cikim).
 
@@ -36,5 +36,5 @@ I earned a double BSc degree in Mechanical Engineering and Aerospace Engineering
 
 - PhD in Mechanical Engineering, [University of Toronto](https://utoronto.ca/) (2019–2024)
 - MSc in Mechanical Engineering, [University of Alberta](https://ualberta.ca/) (2017–2019)
-- Double BSc degree in Mechanical Engineering and Aerospace Engineering, [Sharif University of Technology](https://en.sharif.ir/) (2010–2016)
+- Double BSc Degree in Mechanical Engineering and Aerospace Engineering, [Sharif University of Technology](https://en.sharif.ir/) (2010–2016)
 
