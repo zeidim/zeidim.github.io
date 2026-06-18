@@ -38,3 +38,8 @@ I earned a double BSc degree in Mechanical Engineering and Aerospace Engineering
 - MSc in Mechanical Engineering, [University of Alberta](https://ualberta.ca/) (2017–2019)
 - Double BSc Degree in Mechanical Engineering and Aerospace Engineering, [Sharif University of Technology](https://en.sharif.ir/) (2010–2016)
 
+🎓**Awards:**
+- [NSERC Canada Postdoctoral Research Award (CPRA)](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program) (2026–2028)
+
+
+
